@@ -1,0 +1,12 @@
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\bin\Debug\netcoreapp3.1\Day3.1.exe
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\bin\Debug\netcoreapp3.1\Day3.1.deps.json
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\bin\Debug\netcoreapp3.1\Day3.1.runtimeconfig.json
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\bin\Debug\netcoreapp3.1\Day3.1.runtimeconfig.dev.json
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\bin\Debug\netcoreapp3.1\Day3.1.dll
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\bin\Debug\netcoreapp3.1\Day3.1.pdb
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\obj\Debug\netcoreapp3.1\Day3.1.AssemblyInfoInputs.cache
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\obj\Debug\netcoreapp3.1\Day3.1.AssemblyInfo.cs
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\obj\Debug\netcoreapp3.1\Day3.1.csproj.CoreCompileInputs.cache
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\obj\Debug\netcoreapp3.1\Day3.1.dll
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\obj\Debug\netcoreapp3.1\Day3.1.pdb
+C:\Repos\github.com\AdventOfCode\AdventOfCode2021\Day3.1\obj\Debug\netcoreapp3.1\Day3.1.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Sn8Da7/9ddcOhGkuQt+39GPAXEuhgVfD1CCDVfetJwCExw9Q26bLuoqHj38Q0vBMRX5IzzHNrs+FYzkhYwmoQ==",
+  "dgSpecHash": "5zhgpz2biSNmHDz+AkjFIErgYs8b7z30GQP1bDyLCAFBqxNz6d/VGuicqnXhVyX6PrSmEUmZ5D9fp0qWkZQFtA==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
+  "projectFilePath": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

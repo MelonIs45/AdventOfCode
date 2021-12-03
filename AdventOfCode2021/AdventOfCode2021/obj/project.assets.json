@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
+      "projectUniqueName": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
       "projectName": "AdventOfCode2021",
-      "projectPath": "C:\\Repos\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
+      "projectPath": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
       "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\AdventOfCode2021\\AdventOfCode2021\\obj\\",
+      "outputPath": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\AdventOfCode2021\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

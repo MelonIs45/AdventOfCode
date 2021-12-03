@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\AdventOfCode2021\\Day2.1\\Day2.1.csproj": {}
+    "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\Day2.1\\Day2.1.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\AdventOfCode2021\\Day2.1\\Day2.1.csproj": {
+    "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\Day2.1\\Day2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\AdventOfCode2021\\Day2.1\\Day2.1.csproj",
+        "projectUniqueName": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\Day2.1\\Day2.1.csproj",
         "projectName": "Day2.1",
-        "projectPath": "C:\\Repos\\AdventOfCode2021\\Day2.1\\Day2.1.csproj",
+        "projectPath": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\Day2.1\\Day2.1.csproj",
         "packagesPath": "C:\\Users\\ryanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\AdventOfCode2021\\Day2.1\\obj\\",
+        "outputPath": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\Day2.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
