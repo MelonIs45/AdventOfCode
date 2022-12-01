@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0rtGp408o6m/GUUbav/tqtUgSfYXV3YYb2l9dBzeWUYwoolHwKFLlGKCt40uP3/C4KyH8kBvE1E0LM68sFYa1g==",
+  "dgSpecHash": "TXbtfosL5p+P38l3yEPD/9LLGH8hDm6YcSPSGND8PKhec3ljz8/ZUPVqyQkaztybn2nci+e1Emsi91nh9F7fqg==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\github.com\\AdventOfCode\\AdventOfCode2021\\Day2.1\\Day2.1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ryanp\\OneDrive\\Documents\\CS\\Personal\\AdventOfCode\\AdventOfCode2021\\Day2.1\\Day2.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\ryanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ryanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ryanp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

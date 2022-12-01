@@ -1,0 +1,15 @@
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\bin\Debug\net6.0\Day1.1.exe
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\bin\Debug\net6.0\Day1.1.deps.json
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\bin\Debug\net6.0\Day1.1.runtimeconfig.json
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\bin\Debug\net6.0\Day1.1.dll
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\bin\Debug\net6.0\Day1.1.pdb
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.csproj.AssemblyReference.cache
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.AssemblyInfoInputs.cache
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.AssemblyInfo.cs
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.csproj.CoreCompileInputs.cache
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.dll
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\refint\Day1.1.dll
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.pdb
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\Day1.1.genruntimeconfig.cache
+C:\Users\ryanp\OneDrive\Documents\CS\Personal\AdventOfCode\AdventOfCode2022\Day1.1\obj\Debug\net6.0\ref\Day1.1.dll
