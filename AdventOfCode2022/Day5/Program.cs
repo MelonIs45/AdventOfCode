@@ -13,13 +13,8 @@
 
         static (string, string) Solve()
         {
-            string resPartOne = "";
-            string resPartTwo = "";
             string[] input = File.ReadAllLines("input.txt");
             string[][] stacks = new string[TallestHeight][];
-
-            Stack<string>[] stackOfStacks = new Stack<string>[AmountOfRows];
-            Stack<string>[] stackOfStacksPartTwo = new Stack<string>[AmountOfRows];
 
             for (int i = 0; i < TallestHeight; i++)
             {
@@ -33,6 +28,9 @@
                 
                 stacks[i] = stack;
             }
+
+            Stack<string>[] stackOfStacks = new Stack<string>[AmountOfRows];
+            Stack<string>[] stackOfStacksPartTwo = new Stack<string>[AmountOfRows];
 
             for (int i = 0; i < AmountOfRows; i++)
             {
@@ -64,13 +62,14 @@
                     stackOfStacksPartTwo[instruction.Item3-1].Push(tempStack.Pop());
             }
 
+            (string, string) res = new("", "");
             for (int i = 0; i < stackOfStacks.Length; i++)
             {
-                resPartOne += stackOfStacks[i].Peek();
-                resPartTwo += stackOfStacksPartTwo[i].Peek();
+                res.Item1 += stackOfStacks[i].Peek();
+                res.Item2 += stackOfStacksPartTwo[i].Peek();
             }
 
-            return (resPartOne, resPartTwo);
+            return res;
         }
     }
 }
