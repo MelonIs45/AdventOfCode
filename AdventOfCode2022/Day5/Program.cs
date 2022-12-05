@@ -46,7 +46,7 @@
             }
 
             (int, int, int)[] instructions = new (int, int, int)[input.Length - 10];
-            for (int i = 0; i < input.Length- AmountOfRows - 1; i++)
+            for (int i = 0; i < input.Length - AmountOfRows - 1; i++)
                 instructions[i] = (int.Parse(input[i + AmountOfRows + 1].Split(" ")[1]), int.Parse(input[i + AmountOfRows + 1].Split(" ")[3]), int.Parse(input[i + AmountOfRows + 1].Split(" ")[5]));
 
             foreach ((int, int, int) instruction in instructions)
