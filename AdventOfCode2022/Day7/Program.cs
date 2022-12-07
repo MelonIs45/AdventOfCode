@@ -6,19 +6,21 @@
         public const int MaxSize = 70000000;
         public const int NeededSize = 30000000;
         public const int MaxDirectorySize = 100000;
+        
         static void Main(string[] args)
         {
             (int, int) result = Solve();
             Console.WriteLine(result.Item1);
             Console.WriteLine(result.Item2);
         }
+        
         public static (int, int) Solve()
         {
             string[] input = File.ReadAllLines("input.txt");
             
-            for (int i = 0; i < input.Length; i++)
+            foreach (string command in input)
             {
-                string[] split = input[i].Split(" ");
+                string[] split = command.Split(" ");
                 if (!split[1].Equals("ls"))
                 {
                     FileItem fileItem = new FileItem(split);
@@ -44,6 +46,7 @@
     {
         public string Property { get; set; }
         public string Params { get; set; }
+        
         public FileItem(string[] @params)
         {
             if (@params.Length == 3)
@@ -57,7 +60,8 @@
                 Params = @params[1];
             }
         }
-        public Directory Perform(Directory root)
+        
+        internal Directory Perform(Directory root)
         {
             Directory currentDirectory = root;
 
