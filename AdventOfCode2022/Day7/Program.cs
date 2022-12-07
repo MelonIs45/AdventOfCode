@@ -176,10 +176,11 @@
                 dir.OutputTree();
         }
 
+        // Debugging lol
         public override string ToString()
         {
             string parentName = this.Parent == null ? "null" : this.Parent.Name;
-            return $"{new string('\t', this.Depth)}{this.Name}, {this.Size}, {parentName}, {this.Children.Count}, {this.Depth}, {this.File} {this.Checked}";
+            return $"{new string('\t', this.Depth)}{this.Name}, {this.Size}, {parentName}, {this.Children.Count}, {this.Depth}, {this.File}, {this.Checked}";
         }
     }
 }
